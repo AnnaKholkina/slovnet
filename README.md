@@ -305,7 +305,7 @@ For every column top 3 results are highlighted:
       <td>-</td>
       <td>0.888</td>
       <td>0.081</td>
-      <td>0.718</td>
+      <td>-</td>
     </tr>
     <tr>
       <th>slovnet</th>
