@@ -294,24 +294,24 @@ For every column top 3 results are highlighted:
   </thead>
   <tbody>
     <tr>
+      <th>ner_service</th>
+      <td>0.941</td>
+      <td>0.072</td>
+      <td>-</td>
+      <td>0.975</td>
+      <td>-</td>
+      <td>0.959</td>
+      <td>0.081</td>
+      <td>-</td>
+      <td>0.888</td>
+      <td>0.081</td>
+      <td>0.718</td>
+    </tr>
+    <tr>
       <th>slovnet</th>
       <td><b>0.959</b></td>
       <td><b>0.915</b></td>
       <td><b>0.825</b></td>
-      <td><b>0.977</b></td>
-      <td><b>0.899</b></td>
-      <td><b>0.984</b></td>
-      <td><b>0.973</b></td>
-      <td><b>0.951</b></td>
-      <td>0.944</td>
-      <td>0.834</td>
-      <td>0.718</td>
-    </tr>
-    <tr>
-      <th>ner_service</th>
-      <td><b>0.94</b></td>
-      <td><b>0.07</b></td>
-      <td><b>-</b></td>
       <td><b>0.977</b></td>
       <td><b>0.899</b></td>
       <td><b>0.984</b></td>
