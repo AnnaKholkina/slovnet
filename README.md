@@ -308,6 +308,20 @@ For every column top 3 results are highlighted:
       <td>0.718</td>
     </tr>
     <tr>
+      <th>ner_service</th>
+      <td><b>0.94</b></td>
+      <td><b>0.07</b></td>
+      <td><b>-</b></td>
+      <td><b>0.977</b></td>
+      <td><b>0.899</b></td>
+      <td><b>0.984</b></td>
+      <td><b>0.973</b></td>
+      <td><b>0.951</b></td>
+      <td>0.944</td>
+      <td>0.834</td>
+      <td>0.718</td>
+    </tr>
+    <tr>
       <th>slovnet_bert</th>
       <td><b>0.973</b></td>
       <td><b>0.928</b></td>
